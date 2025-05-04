@@ -2,3 +2,30 @@
     height: 100vh;       
     object-fit: cover;     
   }
+
+ .homePageImg {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;  
+ }
+
+ .secondHomeSection {
+    height: 76vh;
+ }
+
+ .homePage {
+    height: 250px;
+    padding: 25px;
+ }
+ .home {
+    padding: 50px;
+
+ }
+ body {
+    margin: 0;
+    padding: 0;
+    background: url(../images/background.jpg) no-repeat fixed center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  }
